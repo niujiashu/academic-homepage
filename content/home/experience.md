@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.sxu.edu.cn/'
     company_logo: org-gc
     location: Taiyuan, Shanxi Province
-    date_start: '2018-07'
+    date_start: '2018-07-19'
     date_end: ''
     description: |2-
         Responsibilities include:
