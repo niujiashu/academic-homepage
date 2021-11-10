@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Propagation and Origins of Cosmic Rays
+summary: Propagation and origins of cosmic rays in the precision-driven era based on the data from AMS-02, DAMPE, CALET...
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Cosmic Rays
+date: "2020-02-02T02:02:02Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
