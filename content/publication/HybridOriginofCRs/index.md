@@ -45,7 +45,7 @@ links:
 - name: Preprint
   url: https://arxiv.org/abs/2107.12289
 
-url_pdf: http://arxiv.org/pdf/2107.12289v2
+url_pdf: https://arxiv.org/pdf/2107.12289v2
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
