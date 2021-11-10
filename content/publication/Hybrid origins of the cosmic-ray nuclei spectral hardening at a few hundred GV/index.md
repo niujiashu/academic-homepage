@@ -1,5 +1,5 @@
 ---
-title: "Hybrid origins of the cosmic-ray nuclei spectral hardening at a few hundred GV
+title: "Hybrid origins of the cosmic-ray nuclei spectral hardening at a few hundred GV"
 authors:
 - admin
 date: "2021-02-28T10:07:00Z"
