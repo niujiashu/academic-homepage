@@ -38,11 +38,11 @@ tags:
 - Cosmic Rays
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Custom Link
+- name: Preprint
   url: https://arxiv.org/abs/2107.12289
 
 url_pdf: http://arxiv.org/pdf/2107.12289v2
@@ -57,7 +57,7 @@ url_pdf: http://arxiv.org/pdf/2107.12289v2
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: J.S.Niu'
   focal_point: ""
   preview_only: false
 
