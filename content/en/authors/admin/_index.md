@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jia-Shu Niu
+title: Jia-Shu Niu (牛家树)
 
 # Is this the primary user of the site?
 superuser: true

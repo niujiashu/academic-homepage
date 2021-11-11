@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Cosmic Rays
+    tag: Cosmic Rays
+  - name: Dark Matter
+    tag: Dark Matter
+  - name: Stellar Physics
+    tag: Stellar Physics
   - name: Other
     tag: Demo
 
