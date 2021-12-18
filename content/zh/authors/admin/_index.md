@@ -1,38 +1,38 @@
 ---
 # Display name
-title: Jia-Shu Niu
+title: 牛家树 (Jia-Shu Niu)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Researcher of Astrophysics/Theoretical Physics
+role: 天体物理/理论物理研究者
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Shanxi University
+- name: 山西大学
   url: https://www.sxu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests include cosmic-ray physics, dark matter physics, and stellar physics.
+bio: 我现阶段的研究领域为：宇宙线物理、暗物质物理和恒星物理。
 
 # Interests to show in About widget
 interests:
-- Cosmic Rays
-- Dark Matter
-- Asteroseismology
+- 宇宙线
+- 暗物质
+- 星震学
 
 # Education to show in About widget
 education:
   courses:
-  - course: Doctor of Philosophy, Theoretical Physics
-    institution: Institute of Theoretical Physics, Chinese Academy of Sciences
-    year: 2013
-  - course: Master of Science, Astrophysics
-    institution: Beijing Normal University
+  - course: 理学博士, 理论物理
+    institution: 中国科学院理论物理研究所
+    year: 2018
+  - course: 理学硕士, 天体物理
+    institution: 北京师范大学
     year: 2010
-  - course: Bachelor of Science, Mathematics and Applied Mathematics
-    institution: Shanxi University
+  - course: 理学学士, 数学与应用数学
+    institution: 山西大学
     year: 2005
 
 # Social/Academic Networking
@@ -70,8 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+牛家树是一位独立的理论物理/天体物理研究人员，现供职于山西大学理论物理研究所。他现阶段的研究领域包括宇宙线物理、暗物质物理和恒星物理。同时，他也对基础科学领域的各类基础问题，以及可以重塑我们头脑中想法、现实中的合作方式和未来各类元素组织形式的各类技术有着极大兴趣。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
