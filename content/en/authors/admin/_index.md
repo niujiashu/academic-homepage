@@ -70,6 +70,6 @@ email: "jsniu@sxu.edu.cn"
 highlight_name: true
 ---
 
-Jia-Shu Niu is a independent researcher of astro/theoretical physics at Institute of Theoretical Physics (ITP) of Shanxi University. His research interests include cosmic-ray physics, dark matter physics, and stellar physics. Meanwhile, he is also interested in some fundamental problems in fundamental sciences and the techniques which could re-organize the structures of our ideas, collabarations and the future.
+Jia-Shu Niu is an independent researcher of astro/theoretical physics at Institute of Theoretical Physics (ITP) of Shanxi University. His research interests include cosmic-ray physics, dark matter physics, and stellar physics. Meanwhile, he is also interested in some fundamental problems in fundamental sciences and the techniques which could re-organize the structures of our ideas, collabarations and the future.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
