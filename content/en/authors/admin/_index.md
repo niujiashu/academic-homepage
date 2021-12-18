@@ -27,13 +27,13 @@ education:
   courses:
   - course: Doctor of Philosophy, Theoretical Physics
     institution: Institute of Theoretical Physics, Chinese Academy of Sciences
-    year: 2013
+    year: 2018
   - course: Master of Science, Astrophysics
     institution: Beijing Normal University
-    year: 2010
+    year: 2013
   - course: Bachelor of Science, Mathematics and Applied Mathematics
     institution: Shanxi University
-    year: 2005
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,14 +64,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jsniu@sxu.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jia-Shu Niu is a independent researcher of astro/theoretical physics at Institute of Theoretical Physics (ITP) of Shanxi University. His research interests include cosmic-ray physics, dark matter physics, and stellar physics. Meanwhile, he is also interested in some fundamental problems in fundamental sciences and the techniques which could re-organize the structures of our ideas, collabarations and the future.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
