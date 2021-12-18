@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: 经历
 subtitle:
 
 # Date format for experience
@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Lecturer
-    company: Shanxi University
+  - title: 研究人员
+    company: 山西大学
     company_url: 'https://www.sxu.edu.cn/'
     company_logo: org-gc
-    location: Taiyuan, Shanxi Province
+    location: 中国，山西省，太原市
     date_start: '2018-07-19'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        职责:
         
-        * Researching
-        * Teaching
-#        * Deploying
+        * 科学研究
+        * 教学
+        * 冥想
         
 #  - title: Professor of Semiconductor Physics
 #    company: University X
